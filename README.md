@@ -1,2 +1,2 @@
 # Together
-WEBSITE: https://devhanzz.github.io
+WEBSITE: https://devhanzz.github.io/Together
